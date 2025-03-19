@@ -1,4 +1,4 @@
----
+
 
 ## Exercițiul 1 – Array unidimensional
 
