@@ -54,7 +54,7 @@
 
 - **Metode suplimentare:**
   - Implementați metoda `toString()` pentru a returna un șir de caractere ce conține informațiile despre persoană (nume, vârstă, venituri etc.).
-  - Implementați metode de tip `get` și `set` pentru fiecare atribut.
+
 
 ---
 
