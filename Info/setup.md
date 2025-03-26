@@ -81,5 +81,3 @@ Go through the following steps:
 ### Step 5: Setup JDK
   * start Intellij -> File -> Project Structure -> Project Settings - Project -> Select your pre-installed JDK 21
 
-### Extra step
-* Invite me to your private repository in order to verify your work: astere25
