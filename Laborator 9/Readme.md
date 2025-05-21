@@ -1,4 +1,6 @@
 # 💾 Laborator 9
+Link MYSQL : https://dev.mysql.com/downloads/installer/
+Link Driver : https://dev.mysql.com/downloads/connector/j/
 
 ## 🟢 Partea I – JDBC (bază de date)
 
